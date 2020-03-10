@@ -1,8 +1,6 @@
 # OpenCV-Selfie
-This project is about taking selfies using python OpenCV and also store that selfie in Pics Folder. A History.txt file is also created where date-time, image_path and day is written for every image.
+This project is about taking photos from the sytem's using python OpenCV and which can be stored a folder (here, 'Pics'). A History.txt file is also created where date-time, image_path and day is written for every image.
 
-Make sure to create a folder names Pics in the same folder where your program is saved before executing the Program.
+Note: The destination folder for the captured images (here, 'Pics') must be the same as the folder where the program is saved, for the productive execution of the Program.
 
-Selfie.py is the main file which clicks your selfie. You can also execute the same using the Jupyter Notebook names CV Selfie.ipynb
-
-Happy Learning
+Selfie.py is the main program which captures the image from the front camera. The same can be done in the Jupyter Notebook using CV Selfie.ipynb
