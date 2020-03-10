@@ -4,3 +4,4 @@ This project is about caputuring photos from the system's front camera, using py
 Note: The destination folder for the captured images (here, 'Pics') must be the same as the folder where the program is saved, for the productive execution of the Program.
 
 Selfie.py is the main program which captures the image from the front camera. The same can be done in the Jupyter Notebook using CV Selfie.ipynb
+(I implemented this program during the hands-on session on Computer Vision)
